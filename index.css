@@ -1,0 +1,25 @@
+body {
+  width: 66%;
+  margin: auto;
+}
+h1 {
+  text-align: center;
+}
+h3 {
+  text-align: center;
+}
+#plane {
+  display: block;
+  width: 66%;
+  margin: auto;
+  padding: 10px;
+}
+.submit {
+  margin: 10px 0px;
+}
+.clear {
+  margin: 0px 10px;
+}
+#footer {
+  text-align: center;
+}
